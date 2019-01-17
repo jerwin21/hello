@@ -1,8 +1,10 @@
 #include<stdio.h>
 
-int main()
+int main(int argc, char ** argv)
 {
-printf("John Erwin");
+printf("John Erwin\n");
+
+printf("Computer Science");
 
 return(0);
 }
